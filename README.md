@@ -1,0 +1,2 @@
+# wagtail
+Wagtail learning project
